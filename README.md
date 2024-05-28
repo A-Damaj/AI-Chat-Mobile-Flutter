@@ -2,7 +2,7 @@
 
 Welcome to the ChatGPT App! This Flutter application is your gateway to engaging conversations with GPT, all within a secure environment.
 
-!(ChatGPT App)[./images/chat.png]
+![ChatGPT App](./images/chat.png)
 
 ## 🔐 Firebase Integration
 
@@ -12,7 +12,7 @@ We've got you covered with Firebase Firestore! Your account details and chat his
 
 Get started with our easy-to-use login page. New users can sign up in a jiffy!
 
-!(App Login)[./images/login.png]
+![App Login](./images/login.png)
 
 ## 💬 Chat Away!
 
